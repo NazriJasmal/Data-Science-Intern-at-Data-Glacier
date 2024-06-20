@@ -16,13 +16,13 @@ If reviewer approves then merge the changes to master ( optional as this is indi
 
 The Client XYZ is a private firm in US. Due to remarkable growth in the Cab Industry in last few years and multiple key players in the market, it is planning for an investment in Cab industry and as per their Go-to-Market(G2M) strategy they want to understand the market before taking final decision.
 
-Project delivery:
+# Project delivery:
 
 You have been provided with multiple data sets that contains information on 2 cab companies. Each file (data set) provided represents different aspects of the customer profile. XYZ is interested in using your actionable insights to help them identify the right company to make their investment.
 
 The outcome of your delivery will be a presentation to XYZ’s Executive team. This presentation will be judged based on the visuals provided, the quality of your analysis and the value of your recommendations and insights. 
 
-Data Set: https://github.com/DataGlacier/DataSets.git
+# Data Set: https://github.com/DataGlacier/DataSets.git
 
 You have been provided 4 individual data sets. Time period of data is from 31/01/2016 to 31/12/2018.
 
@@ -48,7 +48,7 @@ Identify and remove duplicates
 Perform other analysis like NA value and outlier detection
  
 
-Whatever and how many slides you prepare(Be creative and come up with meaningful insight):
+# Whatever and how many slides you prepare(Be creative and come up with meaningful insight):
 
 The idea is to create a hypothesis, engage with the data, think critically, and use various analytical approaches to produce unique insights.
 
@@ -58,7 +58,7 @@ We encourage you to find third party data sets which correspond to the overall t
 
 Also, do research on overall cab industry in US and try to relate that with the trend in data
 
-Analysis
+# Analysis
 
 Create multiple hypothesis and investigate:
 
@@ -66,7 +66,7 @@ You will need to generate 5-7 hypothesis initially to investigate as some will n
 
 For Example: “Is there any seasonality in number of customers using the cab service?”
 
-Areas to investigate:
+# Areas to investigate:
 
 Which company has maximum cab users at a particular time period?
 Does margin proportionally increase with increase in number of customers?
@@ -82,7 +82,7 @@ Why did you choose to use certain analytical techniques over others?
 What were the results?
 Prepare a presentation that summarizes your analysis and recommendations and identify which company is performing better and is a better investment opportunity for XYZ.
 
-Deliverables of Week 2 are:
+# Deliverables of Week 2 are:
 
 1. EDA Notebook (ipynb file)
 
@@ -92,4 +92,3 @@ Deliverables of Week 2 are:
 
 You can use either EDA or Modeling and EDA both to deliver the result.
 
-Remember, there are no wrong answers as long as the data supports them.
