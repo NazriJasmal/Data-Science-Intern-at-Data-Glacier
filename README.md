@@ -1,1 +1,3 @@
-![background](https://github.com/NazriJasmal/Data-Science-Intern-at-Data-Glacier/assets/141367755/6d38d8ca-9293-4cb8-b494-0e5796c93448)
+![image](https://github.com/NazriJasmal/Data-Science-Intern-at-Data-Glacier/assets/141367755/c7b0e4f0-d30c-47d9-9a56-27bd9824bcd0)
+
+#Week 1- Version Control
