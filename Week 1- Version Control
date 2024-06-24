@@ -1,1 +1,35 @@
+## Week 1- Version Control Assignment
+
+Clone the VC repo (https://github.com/DataGlacier/VC.git)
+Create a new branch
+checkout newly created branch
+Run the add.py and provide your name and fav sport as input
+Run the test script using below command:      
+pytest test/test.py -s
+ignore warning and if there is no error then add,commit and push your changes to repo
+create pull request and assign to reviewer ( If you are working in the group else push the changes to your own repo and submit the URL of that)
+If reviewer approves then merge the changes to master ( optional as this is individual assignment.)
+
+# Scripts
+
+Fork the copy of VC repo in DataGlacier to my own repository
+Open the Command Prompt
+$ git config --global user.name " "
+$ git config --global user.email " "
+$ mkdir repository
+$ cd repository
+$ git clone https://github.com/NazriJasmal/VC.git
+$ cd VC
+$ git branch new-branch
+$ git checkout new-branch
+$ cd scripts
+$ python add.py
+$ cd ..
+$ python -m pytest test/test.py -s
+(check the value of "Data Glacier"=="Cricket", then test pass)
+$ git add -u (Stage all changes}
+$ git commit -m "Executed add.py and test.py"
+$ git push origin new-branch
+
+
 
