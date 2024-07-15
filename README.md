@@ -9,8 +9,6 @@ Run the add.py and provide your name and fav sport as input
 Run the test script using below command:      
 pytest test/test.py -s
 ignore warning and if there is no error then add,commit and push your changes to repo
-create pull request and assign to reviewer ( If you are working in the group else push the changes to your own repo and submit the URL of that)
-If reviewer approves then merge the changes to master ( optional as this is individual assignment.)
 
 ## Week 2- Project: G2M insight for Cab Investment firm
 
@@ -22,7 +20,7 @@ You have been provided with multiple data sets that contains information on 2 ca
 
 The outcome of your delivery will be a presentation to XYZ’s Executive team. This presentation will be judged based on the visuals provided, the quality of your analysis and the value of your recommendations and insights. 
 
-#### Data Set: https://github.com/NazriJasmal/G2M-Cab-Investment-Firm--Datasets.git
+#### DataSet: https://github.com/NazriJasmal/G2M-Cab-Investment-Firm--Datasets.git
 
 You have been provided 4 individual data sets. Time period of data is from 31/01/2016 to 31/12/2018.
 
