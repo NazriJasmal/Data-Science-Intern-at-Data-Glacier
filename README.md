@@ -10,11 +10,11 @@ Run the test script using below command:
 pytest test/test.py -s
 ignore warning and if there is no error then add,commit and push your changes to repo
 
-## Week 2- Project: G2M insight for Cab Investment firm
+## Week 2- Project: G2M insight for Cab Investment firm & Week 3- Presentation of the Project
 
 The Client XYZ is a private firm in US. Due to remarkable growth in the Cab Industry in last few years and multiple key players in the market, it is planning for an investment in Cab industry and as per their Go-to-Market(G2M) strategy they want to understand the market before taking final decision.
 
-# Project delivery:
+#### Project delivery:
 
 You have been provided with multiple data sets that contains information on 2 cab companies. Each file (data set) provided represents different aspects of the customer profile. XYZ is interested in using your actionable insights to help them identify the right company to make their investment.
 
@@ -34,39 +34,25 @@ Transaction_ID.csv – this is a mapping table that contains transaction to cust
 
 City.csv – this file contains list of US cities, their population and number of cab users
 
+#### Tasks
+
 You should fully investigate and understand each data set.
 
 Review the Source Documentation
+
 Understand the field names and data types
+
 Identify relationships across the files
+
 Field/feature transformations
+
 Determine which files should be joined versus which ones should be appended
+
 Create master data and explain the relationship
+
 Identify and remove duplicates
+
 Perform other analysis like NA value and outlier detection
- 
 
-# Whatever and how many slides you prepare(Be creative and come up with meaningful insight):
-
-The idea is to create a hypothesis, engage with the data, think critically, and use various analytical approaches to produce unique insights.
-
-You are not limited to only utilizing the data you have been provided.
-
-We encourage you to find third party data sets which correspond to the overall theme and geographical properties of the data provided.  For Example: you can leverage US holiday data/ weather data
-
-Also, do research on overall cab industry in US and try to relate that with the trend in data
-
-# Analysis
-
-Create multiple hypothesis and investigate:
-
-You will need to generate 5-7 hypothesis initially to investigate as some will not prove what you are expecting.
-
-For Example: “Is there any seasonality in number of customers using the cab service?”
-
-# Areas to investigate:
-
-Which company has maximum cab users at a particular time period?
-Does margin proportionally increase with increase in number of customers?
-What are the attributes of these customer segments?
-
+Prepare a presentation that summarizes your analysis and recommendations and identify which company is performing better and is a better investment opportunity for XYZ.
+Whatever and how many slides you prepare(Be creative and come up with meaningful insight)
