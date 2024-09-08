@@ -13,7 +13,7 @@ If reviewer approves then merge the changes to master ( optional as this is indi
 # Scripts
 
 Fork the copy of VC repo in DataGlacier to my own repository
-My VC repository - https://github.com/NazriJasmal/VC.git
+### My VC repository - https://github.com/NazriJasmal/VC.git
 Open the Command Prompt
 $ git config --global user.name " "
 $ git config --global user.email " "
