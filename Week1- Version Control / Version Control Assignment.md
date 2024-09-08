@@ -24,21 +24,37 @@ Fork the copy of VC repo in DataGlacier to my own repository
 ### My VC repository - https://github.com/NazriJasmal/VC.git
 
 Open the Command Prompt
+
 $ git config --global user.name " "
+
 $ git config --global user.email " "
+
 $ mkdir repository
+
 $ cd repository
+
 $ git clone https://github.com/NazriJasmal/VC.git
+
 $ cd VC
+
 $ git branch new-branch
+
 $ git checkout new-branch
+
 $ cd scripts
+
 $ python add.py
+
 $ cd ..
+
 $ python -m pytest test/test.py -s
+
 (check the value of "Data Glacier"=="Cricket", then test pass)
+
 $ git add -u (Stage all changes}
+
 $ git commit -m "Executed add.py and test.py"
+
 $ git push origin new-branch
 
 
