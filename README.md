@@ -88,3 +88,29 @@ Whatever and how many slides you prepare(Be creative and come up with meaningful
 5. Upload the document and code to Github
 
 6. Submit the URL of the uploaded document.
+
+## Week 6: File ingestion and schema validation
+
+#### Task:
+
+Take any csv/text file of 2+ GB of your choice. --- (You can do this assignment on Google colab)
+
+Read the file ( Present approach of reading the file )
+
+Try different methods of file reading eg: Dask, Modin, Ray, pandas and present your findings in term of computational efficiency
+
+Perform basic validation on data columns : eg: remove special character , white spaces from the col name
+
+As you already know the schema hence create a YAML file and write the column name in YAML file. --define separator of read and write file, column name in YAML
+
+Validate number of columns and column name of ingested file with YAML.
+
+Write the file in pipe separated text file (|) in gz format.
+
+Create a summary of the file:
+
+Total number of rows,
+
+total number of columns
+
+file size
