@@ -119,6 +119,8 @@ file size
 
 ### Data Set Link: https://archive.ics.uci.edu/dataset/222/bank+marketing
 
+### Group Project Github Repo Link: https://github.com/cralph31/Data-Glacier-Final-Group-Project-Weeks-7-12-Deliverables.git
+
 ### Problem Statement:
 
 ABC Bank wants to sell it's term deposit product to customers and before launching the product they want to develop a model which help them in understanding whether a particular customer will buy their product or not (based on customer's past interaction with bank or other Financial Institution).
@@ -220,3 +222,117 @@ Input variables:
 #### Output variable (desired target):
 
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
+
+## Week 7: Deliverables
+
+Submit a pdf document which should contain following details:
+
+Team member's details : Group Name (give a name to your group), Name, Email, Country, College/Company, Specialization ( Data Science, NLP, Data Analyst)
+
+Problem description
+
+Business understanding
+
+Project lifecycle along with deadline
+
+Data Intake report
+
+Github Repo link
+
+## Week 8: Deliverables
+
+Submit a pdf document which should contain following details:
+
+Team member's details : Group Name (give a name to your group), Name, Email, Country, College/Company, Specialization ( Data Science, NLP, Data Analyst)
+
+Problem description
+
+Data understanding
+
+What type of data you have got for analysis
+
+What are the problems in the data ( number of NA values, outliers , skewed etc)
+
+What approaches you are trying to apply on your data set to overcome problems like NA value, outlier etc and why?
+
+Github Repo link
+
+## Week 9: Deliverables
+
+#### Data Cleansing and Transformation
+
+Submit a pdf document and ipynb notebook which should contain following details:
+
+Team member's details : Group Name (give a name to your group), Name, Email, Country, College/Company, Specialization ( Data Science, NLP, Data Analyst)
+
+Problem description
+
+Github Repo link
+
+Data cleansing and transformation done on the data.
+
+Try at least 2 techniques to clean the data ( for NA values : mean/median/mode/Model based approach to handle NA value/WOE and like this try different techniques to identify and handle outliers as well)
+
+for NLP try different featurization technique and also clean the data using regex and python
+
+Each member should code and review peers work. (Review comment should be present in the github repo)
+
+Each team member should work on different data cleansing approach.
+
+Note:
+
+If one team member is using mean to impute values then other member should experiment on segmented approach or any other model based approach to impute the null values.
+
+you are allowed to merge the code of each individual and work together to get good result.
+
+Make sure code of each team member is placed at provided URL (single repository for whole team).
+
+## Week 10: Deliverables
+
+Submit a pdf document and EDA ipynb file which should contain following details:
+
+Team member's details : Group Name (give a name to your group), Name, Email, Country, College/Company, Specialization ( Data Science, NLP, Data Analyst)
+
+Problem description
+
+Github Repo link
+
+EDA performed on the data
+
+Final Recommendation
+
+## Week 11: EDA Presentation and proposed modeling technique
+
+Team member's details : Group Name (give a name to your group), Name, Email, Country, College/Company, Specialization ( Data Science, NLP, Data Analyst)
+
+Problem description
+
+Github Repo link
+
+EDA presentation for business users
+
+Last slide of EDA should be dedicated to technical user which should contain recommended models for this data set.
+
+## Week 12: Model Selection and Model Building/Dashboard
+
+Select your base model and then explore 1 model of each family if its classification problem then 1 model for Linear models, 1- Model for Ensemble, 1-Model for boosting and other models if you have time (like stacking)
+
+Please make sure selected model fits in your business requirement. For example : If your business does not want black box model then select only those models which can be used to explain the prediction.
+
+As this is group assignment hence upload the code of each team member and other deliverables in the single repo and share the URL of that repo.
+
+Interns of Data analysis Project should submit dashboard in this week. 
+
+you are allowed to merge the code of each individual and work together to get good result.
+
+## Final Project Report and Code
+
+Provide the link of your code and report.
+
+As it was group assignment hence go far a call with your team and discuss the solution of each member and
+
+select that solution which is best and is per the requirement.
+
+Power point presentation is must.
+
+you are allowed to merge the code of each individual and work together to get good result. 
